@@ -1,0 +1,29 @@
+Part 1
+
+1. mkdir first
+2. cd first
+3. touch person.txt
+4. mv person.txt another.txt
+5. cop another.txt copy.txt
+6. rm copy.txt
+7. cp -r first second
+8. rm -fr second
+
+
+Part 2
+
+1. man command gives you a manual about a command. You can use the "enter" key to navigate throughout the manual. "Q" gets you our of the manual.
+2. The "l" flag uses a long listing format. The "a" flag lists all entries and does not ignore entries starting with a "."
+3. Alt + arrow keys
+4. CTRL+ e
+5. CTRL+ a
+6. CTRL + w
+7. Termainal is the window that you operate in. Shell is the software that you run commands in. 
+8. Absolute path is the complete path needed to naviagte to a certain file or directory starting with the root directory
+9. A relative path is a path that gets you to a file or directory that is one step away from your current location
+10. A flag is a modification to a command that you are using. 
+	ls -a
+	ls -l
+	rm -fr
+	cp -r
+11. The "r" and "f" flags used with the "rm" command allow you to remove a directory that has files inside of it. 
